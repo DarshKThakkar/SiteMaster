@@ -1,0 +1,16 @@
+body
+{
+    background-color: #ecf1fa;
+}
+
+.goBack
+{
+    background-color: #465A6B;
+    color: white;
+}
+
+.goBack:hover
+{
+    background-color: #66819a;
+    color: white;
+}
